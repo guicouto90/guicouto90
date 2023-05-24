@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 🔭 Atualmente atuo como desenvolvedor de software junior</li>
     <li>- 👨‍💻 Aprendendo microsserviços</a></li>
   </div>
 </div>
